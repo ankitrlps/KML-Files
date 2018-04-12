@@ -34,11 +34,11 @@
         </Style>
         <Placemark>
             <TimeStamp>
-                <when>20180411T18:47:36:785Z</when>
+                <when>2018-04-11T18:47:36Z</when>
             </TimeStamp>
             <styleUrl>#starting</styleUrl>
             <Point>
-                <coordinates>-83.60663,41.65695,0.15</coordinates>
+                <coordinates>-83.60663,41.65695,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark>
@@ -48,9 +48,7 @@
             <LineString>
                 <gx:altitudeOffset>190.0</gx:altitudeOffset>
                 <altitudeMode>absolute</altitudeMode>
-                <coordinates>
--83.60663,41.65695,0.15
-
+                <coordinates>-83.60663,41.65695,0.0
 -83.60663,41.65695,0.15
 
 -83.60663,41.65695,0.16
@@ -38881,7 +38879,7 @@
         </Placemark>
         <Placemark>
             <TimeStamp>
-                <when>20180411T19:03:37:117Z</when>
+                <when>2018-04-11T19:03:37Z</when>
             </TimeStamp>
             <styleUrl>#landing</styleUrl>
             <Point>
